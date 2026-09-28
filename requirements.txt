@@ -1,0 +1,9 @@
+streamlit>=1.39,<2
+deepface>=0.0.93
+opencv-python>=4.10,<5
+numpy>=1.26,<3
+pandas>=2.2,<3
+plotly>=5.24,<7
+Pillow>=10,<12
+tensorflow>=2.16,<2.21
+tf-keras>=2.16,<2.21
